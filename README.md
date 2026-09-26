@@ -24,6 +24,14 @@ Building practical software, strengthening DSA fundamentals, and turning ideas i
 
 ---
 
+<div align="center">
+
+<img src="./eagle-roaming.gif" width="180" alt="Roaming Eagle">
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Computer Science & Engineering student** focused on **Java backend and full-stack development**.
