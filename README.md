@@ -2,18 +2,23 @@
 
 # 👋 Hi, I'm Lokeswar Patnaik
 
-### Java Backend & Full-Stack Developer | CSE Student | Problem Solver
+### ☕ Java Backend & Full-Stack Developer | CSE Student | Problem Solver
 
-Building practical software with **Java, Spring Boot, PostgreSQL & React**  
-and strengthening my problem-solving skills through **DSA**.
+Building practical software, strengthening DSA fundamentals, and turning ideas into reliable applications.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-LokeshPatnaik-181717?style=for-the-badge&logo=github)](https://github.com/LokeshPatnaik)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+<a href="https://github.com/LokeshPatnaik">
+<img src="https://img.shields.io/badge/GitHub-LokeshPatnaik-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lokeswar-behara-412049314/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Lokeshpatnaik/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -21,19 +26,61 @@ and strengthening my problem-solving skills through **DSA**.
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** focused on building a strong foundation in backend and full-stack development.
+I'm a **Computer Science & Engineering student** focused on **Java backend and full-stack development**.
 
-My current focus areas are:
+I enjoy building applications that solve practical problems while continuously improving my understanding of software engineering and problem solving.
 
-- ☕ **Java & Object-Oriented Programming**
-- 🌱 **Spring Boot & REST APIs**
-- 🗄️ **PostgreSQL & SQL**
-- ⚛️ **React & Full-Stack Development**
-- 🔐 **JWT Authentication & Application Security**
-- 🧠 **Data Structures & Algorithms**
-- 🛠️ **Git, GitHub & Maven**
+### What I focus on
 
-I enjoy understanding how systems work internally and turning concepts into working applications.
+- ☕ Java & Object-Oriented Programming
+- 🌱 Spring Boot & REST APIs
+- 🗄️ SQL & PostgreSQL
+- ⚛️ React & Vite
+- 🧩 Data Structures & Algorithms
+- 🔐 Authentication & backend security
+- 🛠️ Git, Maven, Postman & software development workflows
+
+My current goal is to become a strong **Java Software Engineer** with solid DSA, backend, and system-building fundamentals.
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
 ---
 
@@ -41,107 +88,68 @@ I enjoy understanding how systems work internally and turning concepts into work
 
 ## 🏦 Smart Queue Management System
 
-A full-stack banking queue management platform designed to reduce physical waiting and provide customers with a more transparent queue experience.
+A full-stack banking queue management platform designed to reduce physical waiting and improve customer flow.
 
-### ✨ Key Features
+### 👤 Customer Features
 
-- 👤 Customer registration & login
-- 🔐 JWT-based authentication
-- 🏦 Banking service selection
-- 🎟️ Digital token generation
-- 📍 Real-time queue position
-- ⏱️ Estimated waiting time
-- 👨‍💼 Staff dashboard
-- 📢 Call-next functionality
-- ✅ Ticket completion workflow
-- 🗄️ PostgreSQL database integration
-- 🌐 React frontend
-- ⚙️ Spring Boot REST backend
+- Secure registration and login
+- Banking service selection
+- Digital queue token generation
+- Queue position tracking
+- Estimated waiting time
+- Ticket status tracking
 
-### 🧩 Tech Stack
+### 👨‍💼 Staff Features
 
-`Java` `Spring Boot` `Spring Security` `JWT`  
-`PostgreSQL` `JPA/Hibernate` `REST API`  
-`React` `Vite` `HTML` `CSS` `Git` `Maven`
+- Dedicated staff authentication
+- Queue monitoring dashboard
+- View waiting customers
+- Call the next customer
+- Manage serving customers
+- Complete queue tickets
+- Queue statistics
 
-### 🔗 Project
+### 🔐 Engineering
 
-👉 **[View Smart Queue Management System](https://github.com/LokeshPatnaik/smart-queue-management-system)**
+- Spring Boot REST APIs
+- PostgreSQL persistence
+- JPA / Hibernate
+- JWT authentication
+- Role-based authorization
+- Environment-based configuration
+- React + Vite frontend
 
----
+### 🧰 Tech Stack
 
-# 🧠 Problem Solving
+`Java` `Spring Boot` `React` `Vite` `PostgreSQL` `JPA` `Hibernate` `JWT` `Maven`
 
-I am actively strengthening my DSA fundamentals using **Java** and practicing algorithmic problem solving.
+<br>
 
-### Current Focus
-
-- Arrays & Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Recursion & Backtracking
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
-### 📈 Practice
-
-**125+ LeetCode problems solved**
-
-My focus is not only solving problems, but understanding:
-
-> **Pattern → Approach → Implementation → Complexity → Revision**
+<a href="https://github.com/LokeshPatnaik/smart-queue-management-system">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# 🛠️ Technical Skills
+# 🧠 Data Structures & Algorithms
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I am actively strengthening my problem-solving skills through structured DSA practice.
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-
----
-
-# 📚 Currently Learning
+### Core Areas
 
 ```text
-Java
-  └── OOP → Collections → Multithreading → Advanced Java
-
-Backend
-  └── Spring Boot → REST APIs → Security → JWT
-
-Database
-  └── SQL → PostgreSQL → JPA/Hibernate
-
-DSA
-  └── Patterns → Trees → Graphs → DP
-
-Development
-  └── Git → Maven → Testing → Deployment
+Arrays
+Strings
+Hashing
+Two Pointers
+Sliding Window
+Binary Search
+Sorting
+Recursion
+Backtracking
+Linked Lists
+Stacks & Queues
+Trees
+Graphs
+Heaps
+Dynamic Programming
